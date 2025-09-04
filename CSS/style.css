@@ -1,6 +1,4 @@
-:root{
-    --hovercol: #EE964B;
-}
+
 *{
     text-decoration: none;
     transition: all ease 0.2s;
@@ -12,8 +10,12 @@ hr{
 }
 .collapse.navbar-collapse{
     justify-content: center;
+    background-color: white;
 }
-.nav-link:hover{
-    background-color: var(--hovercol);
-    border-radius: 20px;
+.footer_1{
+    padding: 50px;
+    background: #212529;
+}
+#paragraph1{
+    color: white;
 }
