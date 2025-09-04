@@ -1,0 +1,19 @@
+:root{
+    --hovercol: #EE964B;
+}
+*{
+    text-decoration: none;
+    transition: all ease 0.2s;
+}
+
+
+hr{
+   border: solid #000825 5px; 
+}
+.collapse.navbar-collapse{
+    justify-content: center;
+}
+.nav-link:hover{
+    background-color: var(--hovercol);
+    border-radius: 20px;
+}
