@@ -19,3 +19,22 @@ hr{
 #paragraph1{
     color: white;
 }
+#parent_div1, .child_div1, .child_div2{
+    display: flex;
+}
+.form1{
+    margin-bottom: 20px;
+    margin-left: 600px;
+}
+.form-floating{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.table3{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#table1{
+    margin-left: 25%;
+    margin-right: 50%;
+}
