@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Epunda+Slab:ital,wght@0,300..900;1,300..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 *{
     text-decoration: none;
     transition: all ease 0.2s;
@@ -24,7 +24,7 @@ hr{
 }
 .form1{
     margin-bottom: 20px;
-    margin-left: 600px;
+    margin-left: 1000px;
 }
 .form-floating{
     margin-left: 400px;
@@ -36,5 +36,22 @@ hr{
 }
 #table1{
     margin-left: 25%;
-    margin-right: 50%;
+    margin-right: 200px;
+}
+.navbar-nav{
+    margin-right: 100px;
+}
+#paragraphdiv{
+    background-color: #e7e7e7;
+    border: solid black 3px;
+}
+#paragraph_view{
+    font-family: "Roboto";
+}
+.form-control{
+    border: solid black 3px;
+}
+.commentbtn{
+    margin-left: 1050px;
+    margin-top: 5px;
 }
